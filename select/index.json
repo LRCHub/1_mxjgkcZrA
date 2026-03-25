@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Clap-A-Holics",
+  "base_artist": "玉森裕太",
+  "createdAt": "2026-03-25T03:24:00.135510Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clap-A-Holics",
+      "artist": "玉森裕太",
+      "has_synced": false,
+      "path": "select/pl_01_Clap-A-Holics_玉森裕太.txt"
+    }
+  ]
+}
